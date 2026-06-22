@@ -35,6 +35,7 @@ git clone https://github.com/<owner>/<repo>.git ~/.claude/skills/<имя>
   npx skills add coreyhaines31/marketingskills --list    # список
   # или через плагин:
   /plugin marketplace add coreyhaines31/marketingskills
+  /plugin install marketing-skills@marketingskills
   ```
 
 ## 2. Stop Slop – Claude пишет по-человечески
@@ -88,7 +89,7 @@ Remotion – это видео на React: описываешь ролик сл�
 - Установка:
   ```bash
   /plugin marketplace add NeoLabHQ/context-engineering-kit
-  /plugin install <плагин>@NeoLabHQ/context-engineering-kit   # напр. sdd, reflexion
+  /plugin install <плагин>@context-engineering-kit   # напр. reflexion, sdd
   # или точечно через npx:
   npx -y skills add neolabhq/context-engineering-kit --skill <имя> --agent claude-code
   ```
