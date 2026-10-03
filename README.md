@@ -21,6 +21,8 @@ git clone https://github.com/<owner>/<repo>.git ~/.claude/skills/<имя>
 
 После установки перезапусти сессию – Claude увидит новый скилл и сам подтянет его, когда задача подходит.
 
+Пошагово, с ошибками и проверкой, что скилл подхватился, - [как установить скилл в Claude Code](https://claudebase.ru/stati/kak-ustanovit-skill-claude-code/). Больше подборок - [лучшие скиллы Claude Code](https://claudebase.ru/stati/luchshie-skilly-claude-code/) на ClaudeBase.
+
 ---
 
 ## 1. Marketing Skills – маркетинговый отдел в терминале
@@ -106,4 +108,4 @@ Remotion – это видео на React: описываешь ролик сл�
 
 ---
 
-Собрал **Максим Самусь** – зарабатываю на нейросетях, собираю на них продукты для себя и бизнеса. Разборы и инструменты – в канале [@ai_smart_usage](https://t.me/ai_smart_usage).
+Собрал **Максим Самусь** – зарабатываю на нейросетях, собираю на них продукты для себя и бизнеса. Разборы и инструменты – в канале [@ai_smart_usage](https://t.me/ai_smart_usage) и на [ClaudeBase](https://claudebase.ru/) - база знаний по Claude Code.
